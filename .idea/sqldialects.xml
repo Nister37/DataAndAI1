@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/Project_02_2425_pg_EN_Solu.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exercises/W2Ex01.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exercises/W2Ex02.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exercises/W3Ex01.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exercises/W3Ex02.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exercises/W4Ex01.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exercises/W4Ex02.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exercises/W5Ex01.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exercises/W5Ex02.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exercises/W6Ex01.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exercises/W6Ex02.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exercises/W7Ex01.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exercises/W8Ex01.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exercises/projectdb.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/scripts/06_01_CREATE_TABLE.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/scripts/07_DDL_ALTER_DROP_IDENTITY_and_DML_EN.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/scripts/_pg_CRE_ENTERPRISE_EN.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/scripts/_pg_CRE_SA.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/scripts/_pg_ENTERPRISE_BIG_EN.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/scripts/_pg_FILL_ENTERPRISE_EN.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/scripts/_pg_FILL_SA.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/theory/02_2_SCRIPT_Select_basics_and_fetch_EN.sql" dialect="PostgreSQL" />
+  </component>
+</project>
