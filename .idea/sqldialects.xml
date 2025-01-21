@@ -13,8 +13,12 @@
     <file url="file://$PROJECT_DIR$/exercises/W6Ex01.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/exercises/W6Ex02.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/exercises/W7Ex01.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exercises/W7Ex02.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/exercises/W8Ex01.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exercises/W8Ex02.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exercises/W9Ex01.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/exercises/projectdb.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/exercises/test_H2.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/scripts/06_01_CREATE_TABLE.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/scripts/07_DDL_ALTER_DROP_IDENTITY_and_DML_EN.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/scripts/_pg_CRE_ENTERPRISE_EN.sql" dialect="PostgreSQL" />
